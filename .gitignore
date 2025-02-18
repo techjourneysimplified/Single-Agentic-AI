@@ -1,2 +1,13 @@
+# .gitignore
 .env
+
+inventory_mgmt_agent/src/inventory_mgmt_agent/__pycache__
+
+inventory_mgmt_agent/src/inventory_mgmt_agent/agents/__pycache__
+
+inventory_mgmt_agent/credentials.json
+
+inventory_mgmt_agent/inventory_agent.log
+inventory_mgmt_agent/src/data/
+inventory_mgmt_agent/token.pickle
 
